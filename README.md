@@ -44,15 +44,21 @@
 
 > 날짜 기준으로, 최근부터 내림차순 정렬하였습니다.
 
+<img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/coronas.info.png" width="600px" />
+
 - **코로나인포**
   - 📅 기간: 2020.02 - 2020.04
   - React와 Next.js을 이용하여 Universal SSR 어플리케이션을 개발하였습니다.
   - 🛠 skills: `React`, `Next.js`, `TypeScript`, `Scss`, `Emotion (styled)`
 
+<img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/ddark.kr.png" width="600px" />
+
 - **개인 홈페이지**
   - 📅 기간: 2019.12 ~
   - 간단한 자기 소개 페이지를 제작하였습니다. `Recoil` 전역 상태 관리 라이브러리와 Custom Hooks을 만들어 theme를 가져오기 편하게 구성하였습니다.
   - 🛠 skills: `React`, `Next.js`, `TypeScript`, `Emotion (styled)`, `Recoil`
+
+<img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/muzip.png" width="600px" />
 
 - **뮤집**
   - [🌐 website](https://muzip.xyz)
@@ -61,6 +67,8 @@
   - CodeIgniter 기반의 프로젝트를 프론트엔드와 백엔드로 나눠, 프론트엔드는 Vue.js와 Nuxt.js, 백엔드는 Laravel로 재구성하였습니다. 또한, [위키](https://en.wikipedia.org/wiki/Wiki) 형식의 리비전 관리를 도입하여 사용자의 기여를 확인할 수 있게 개발하였습니다.
   - 현재 React와 Next.js 기반의 프로젝트로 재구성중입니다.
   - 🛠 skills: `Vue.js`, `Vuex`, `Pug`, `Scss`, `PHP`, `CodeIgniter`, `Laravel`
+
+<img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/cielMusic_v1.png" width="600px" />
 
 - **Ciel Music**
   - 📅 기간: 2017.03 - 2018.04
