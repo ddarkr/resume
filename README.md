@@ -3,6 +3,8 @@
   - E-Mail: [ddark.kr@gmail.com](mailto:ddark.kr@gmail.com)
   - GitHub: <https://github.com/ddarkr>
   - 병역: 미필 (미성년자)
+  - Blog: <https://dodan.tistory.com/>, <https://blog.ddark.kr/>
+  - velog: <https://velog.io/@ddark>
 
 ## 🔖 philosophy
 
