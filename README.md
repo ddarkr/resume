@@ -32,12 +32,12 @@
   - **Laravel**
   - CodeIgniter (version 3)
 - Database
-  - MySQL (MariaDB)
+  - MySQL (**MariaDB**)
 - DevOps
-  - GitHub, GitLab
-  - Vercel
-  - GitHub Actions
-  - ESLint, Prettier
+  - **GitHub**, GitLab
+  - **Vercel**
+  - **GitHub Actions**
+  - **ESLint, Prettier**
 
 ## 👨‍💻 work experiences
 
