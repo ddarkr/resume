@@ -94,7 +94,7 @@
 <img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/splitzConsole.png" width="600px" />
 
 **Splitz Console (스플릿즈 콘솔)**
-> 지인의 사업에 사용되는 관리 패널을 외주 형태를 통해 개발하였습니다. Vultr 사의 관리 패널과 Google의 Firebase를 모티브로 개발되었습니다.
+> 클라우드 서비스들의 사용자 패널 서비스입니다. 외주 형태로 개발하였습니다.
 - 📅 기간: 2019.08 - 2020.02
 - JWT 기반으로 사용자 인증을 하였으며, Nuxt.js + Express를 사용하여 세션 기반으로 사용자 인증을 하는 API를 구현하였습니다. Vuex에서 사용자 데이터를 관리하였습니다.
 - 🛠 skills: `Nuxt.js`, `Vue.js`, `Vuex`, `Pug`, `Scss`, `PHP`, `Laravel`, `Express`
