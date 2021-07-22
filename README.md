@@ -1,4 +1,4 @@
-👤 정도현
+👤 정도현 (aka. `도다`)
   - 생년월일: 2003.11.03.
   - E-Mail: [me@doda.dev](mailto:me@doda.dev)
   - GitHub: <https://github.com/ddarkr>
