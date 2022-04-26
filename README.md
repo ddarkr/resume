@@ -31,12 +31,27 @@
 - Database
   - MySQL (**MariaDB**)
 - DevOps
+  - Linux
+  - **Docker**
   - **GitHub**, GitLab
   - **Vercel**
   - **GitHub Actions**
   - **ESLint, Prettier**
 
 ## 👨‍💻 experiences
+
+<img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/muzip_v3.png" width="600px" />
+
+**뮤집 v3**
+> 기존에 운영하던 "뮤집" 서비스를 기초부터 새로 만든 프로젝트입니다.
+- [🌐 website](https://muzip.xyz)
+- 📅 기간: 2021.03 - 현재
+- 프론트엔드와 백엔드 간 Apollo GraphQL 및 GraphQL Codegen의 도입으로 스키마 공유와 효율적인 통신이 가능하게 구성되었습니다.
+- 기존 프론트엔드의 컴포넌트 재사용 문제를 개선하기 위해, 초기부터 Figma를 통해 디자인 시스템을 계획한 후 설계되었습니다.
+- 백엔드 서버를 Nest.js로 재개발하여 비동기적인 작업을 도입하여, 구 Laravel 프레임워크 기반 서버에 비해 Mutation 시간이 약 3배 개선되었습니다.
+- 🛠 skills: `TypeScript`, `Next.js`, `Nest.js`, `Apollo GraphQL`, `@emotion`, `Figma`
+
+----
 
 <img src="https://raw.githubusercontent.com/ddarkr/RESUME/master/assets/images/mywallets_v1.png" width="600px" />
 
@@ -106,7 +121,7 @@
 **뮤집**
 > 음악 가사와 노래방 번호를 제공해주는 음악 정보 사이트입니다. 가입형 위키위키 방식을 추구하며, 간단한 버전 시스템을 도입하여 수정 기록을 관리할 수 있도록 하였습니다.
 - [🌐 website](https://muzip.xyz)
-- 📅 기간: 2018 - 현재
+- 📅 기간: 2018 - 2021
 - JWT 기반의 인증을 도입하여, Vuex Store에서 관리하도록 구현하였습니다. 또한 JWT를 localStorage에 저장하여 로그인 세션이 유지되도록 하였습니다.
 - Algolia 기반의 검색을 제공하며, 백엔드 서버에서 데이터가 변경될 때마다 Algolia의 내용이 업데이트되도록 구현하였습니다.
 - 컨텐츠 데이터를 제공하는 비공개 RESTful API의 인증 토큰을 구현하여 API의 보안을 신경 써서 구현하였습니다.
